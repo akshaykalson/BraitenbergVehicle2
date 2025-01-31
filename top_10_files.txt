@@ -1,0 +1,10 @@
+Content/Vehicles/SportsCar/Materials/Textures/T_SportsCar_Chassis_CCRCCPlastic_M.uasset
+Content/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Sus_BN.uasset
+.gitignore
+.gitattributes
+Config/DefaultGame.ini
+Config/DefaultEditor.ini
+Vehicle_2.uproject
+Platforms/HoloLens/Config/HoloLensEngine.ini
+Config/DefaultEngine.ini
+Config/DefaultInput.ini
