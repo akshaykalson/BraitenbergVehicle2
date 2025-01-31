@@ -1,0 +1,26 @@
+# Unreal Engine Build Artifacts
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+
+# Editor/Project-Specific Files
+*.sln
+*.suo
+*.user
+*.log
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
+
+# Large Asset Files (Optional: If You Don't Want These in Git)
+Content/Vehicles/SportsCar/Materials/Textures/T_SportsCar_Chassis_CCRCCPlastic_M.uasset
+Content/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Sus_BN.uasset
+
+# Config Files (Optional: If You Don't Want These in Git)
+Config/DefaultGame.ini
+Config/DefaultEditor.ini
+Config/DefaultEngine.ini
+Config/DefaultInput.ini
+Platforms/HoloLens/Config/HoloLensEngine.ini
