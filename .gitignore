@@ -25,3 +25,4 @@ Config/DefaultEngine.ini
 Config/DefaultInput.ini
 Platforms/HoloLens/Config/HoloLensEngine.ini
 large_files.txt
+lfs_files.txt
